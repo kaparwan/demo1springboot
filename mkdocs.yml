@@ -1,0 +1,8 @@
+site_name: "demo1springboot"
+site_description: "demo1springboot"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
